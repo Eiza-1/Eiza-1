@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Eiza 👋<br><br>I'm a **Software Engineer, Full Stack Developer, ui/ux and IT personnel** passionate about building scalable web applications and contributing to open-source projects.<br><br>- 🔭 I’m probably working on a very dope innovation ✨<br>- 🌱 I’m currently learning cloud architecture + AI integrations<br>- 💬 Ask me about web or program related stuffs (Always available to help :)<br>- 📫 How to reach me: Email: phasedfa7@gmail.com<br>                                           https://guns.lol/eiza<br>### 🛠 Tech Stack<br>**Languages:** JavaScript, Python, Go, C++<br>**Frameworks:** React, Node.js, FastAPI<br>**Tools:** Docker, AWS, Git
+# Hi there, I'm Eiza 👋<br><br>I'm a **Software Engineer, Full Stack Developer, ui/ux and IT personnel** passionate about building scalable web applications and contributing to open-source projects.<br><br>- 🔭 I’m probably working on a very dope innovation ✨<br>- 🌱 I’m currently learning cloud architecture + AI integrations<br>- 💬 Ask me about web or program related stuffs (Always available to help :)<br>- 📫 How to reach me: https://guns.lol/eiza 🕸️<br><br>### 🛠 Tech Stack<br>**Languages:** JavaScript, Python, Go, C++<br>**Frameworks:** React, Node.js, FastAPI<br>**Tools:** Docker, AWS, Git
 
 
 ## 🌐 Socials:
